@@ -22,7 +22,7 @@
 
 * Statsmodels: *built on top of numpy and scipy, which integrates with pandas, SM provides good summaries*
 
-* Scikit-learn or sklearn: *used ML library for image*
+* Scikit-learn or sklearn: *used ML library for below example*
 
 
 ## How to Save and Load ML Models:
@@ -44,3 +44,10 @@ representing an object with a stream of bytes, in order to store it on disk,
 send it over a network or save to a database.
 ```
 **Deserialization**: While the restoring/reloading of ML Model procedure is known as deserialization.
+
+### Example
+```
+from sklearn.externals import joblib
+joblib.dump(model, 'filename.pk1')                    #Save in file  
+model = joblib.load('filename.pk1')                   #Load from file
+```
