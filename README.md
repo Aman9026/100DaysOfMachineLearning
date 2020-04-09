@@ -23,3 +23,24 @@
 * Statsmodels: *built on top of numpy and scipy, which integrates with pandas, SM provides good summaries*
 
 * Scikit-learn or sklearn: *used ML library for image*
+
+
+## How to Save and Load ML Models:
+
+**WHAT** On various instances, while working on developing a Machine Learning Model, 
+We'll need to save our prediction models to file, and then restore them in order to reuse our previous work to.
+
+**WHY** We need to save and restore/reload later our ML Model , so as to -
+
+* test our model on/with new data,
+
+* compare multiple models,
+
+* or anything else.
+
+**Object serialization**: This process / procedure of saving a ML Model is also known as object serialization - 
+```
+representing an object with a stream of bytes, in order to store it on disk, 
+send it over a network or save to a database.
+```
+**Deserialization**: While the restoring/reloading of ML Model procedure is known as deserialization.
