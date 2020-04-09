@@ -17,14 +17,14 @@ Linear regression is the pure form of algorithm which correlates between two var
     
 
 **Simple linear regression model: function:  y = b0 + b1x + e**
-
-> Where, b0 is constant or bias, b1 is coefficient, x is predictor or independent variable, y is predicted or dependent variable, e is epsilon or error
-
+```
+ Where, b0 is constant or bias, b1 is coefficient, x is predictor or independent variable, y is predicted or dependent variable, e is epsilon or error
+```
 
 **Simple linear regression equation: y^ = b0 + b1x1**
-
-> y^ is predicted or estimated value
-
+```
+y^ is predicted or estimated value
+```
 **Correlation:** measure degree of relational in 2 variable, in graph it is single point
 
 **Regression:** how one variable affect other, one way, in graph it is line
