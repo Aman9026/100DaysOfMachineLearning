@@ -33,3 +33,6 @@ y^ is predicted or estimated value
 **Regression line:** best fitting line through data points
 
 **Residual:** estimator of error
+
+
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/geometricrepresentaton.png)
