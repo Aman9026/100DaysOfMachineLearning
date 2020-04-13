@@ -55,3 +55,10 @@ model = joblib.load('filename.pk1')                   #Load from file
 ## Regression
 Regression is basically a statistical approach to find the relationship between variables. 
 In machine learning, this is used to predict the outcome of an event based on the relationship between variables obtained from the data-set.
+1. Linear
+    * Simple linear regression
+    * Multiple linear regression
+
+2. Logistic
+    * Simple logistic regression
+    * Multiple logistic regression
