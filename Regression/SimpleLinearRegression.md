@@ -68,7 +68,7 @@ model.intercept_
 ```
 ![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/samplegraph2.png)
 
----
+
 
 **Save model to file:**
 ```
