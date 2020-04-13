@@ -52,7 +52,7 @@ joblib.dump(model, 'filename.pk1')                    #Save in file
 model = joblib.load('filename.pk1')                   #Load from file
 ```
 
-## Regression
+## [Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression)
 Regression is basically a statistical approach to find the relationship between variables. 
 In machine learning, this is used to predict the outcome of an event based on the relationship between variables obtained from the data-set.
 1. Linear
