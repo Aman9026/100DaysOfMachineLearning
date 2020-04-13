@@ -40,3 +40,5 @@ array([115573.62288352,  71679.93878159, 102498.90847018,  75415.57147111,
 >>> plt.ylabel('Salary')
 >>> plt.show()
 ```
+### Draw best fit line
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/expgraph.png)
