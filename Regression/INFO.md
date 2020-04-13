@@ -1,4 +1,4 @@
-# Linear Regression
+# Regression
 
 
 **Regression Analysis**: Cause that effect
