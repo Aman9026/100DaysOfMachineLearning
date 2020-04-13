@@ -40,5 +40,37 @@ array([115573.62288352,  71679.93878159, 102498.90847018,  75415.57147111,
 >>> plt.ylabel('Salary')
 >>> plt.show()
 ```
-### Draw best fit line
+## Draw best fit line
 ![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/expgraph.png)
+```
+>>> from sklearn import  metrics
+>>> print("MAE: ", metrics.mean_absolute_error(y_test , y_pred))
+>>> print("MSE: ", metrics.mean_squared_error(y_test, y_pred))
+>>> import numpy as np
+>>> print("RMSE: " , np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+```
+```
+>>> from sklearn.externals import joblib
+>>> joblib.dump(model, 'salary.pk1')
+```
+## Create App for salary Estimator uses by other User:
+
+Create file from text editor, save content in salary_app.py:
+
+```
+from sklearn.externals import joblib
+model = joblib.load('salary.pk1')
+exp= input("Enter exp: ")
+exp = int(exp)
+salary_predict = model.predict(exp)
+print("Estimated Salary: " , salary_predict[0])
+```
+
+### Run above created file:
+```
+>python salary_app.py
+```
+```
+Enter exp: 5
+Estimated Salary:  72613.84695396919
+```
