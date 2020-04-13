@@ -67,3 +67,19 @@ model.intercept_
  plt.ylabel('marks')
 ```
 ![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/samplegraph2.png)
+
+---
+
+**Save model to file:**
+```
+from sklearn.externals import joblib
+joblib.dump(model, 'filesave.pk1')
+```
+
+**Load model from save file :**
+```
+>>> from sklearn.externals import joblib
+>>> model = joblib.load('lr.pk1')
+>>> model
+>>> model.predict(7)
+```
