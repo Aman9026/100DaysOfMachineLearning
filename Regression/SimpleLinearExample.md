@@ -5,3 +5,38 @@
 >>> dataset.head()
 ```
 ![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/datasetex.png)
+
+```
+>>> X = dataset.iloc[: , 0:1].values
+>>> y = dataset.iloc[: , 1].values
+>>> from sklearn.model_selection import train_test_split
+>>> X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=42)
+>>> from sklearn.linear_model import LinearRegression
+>>> model = LinearRegression()
+>>> model.fit(X_train, y_train)
+>>> y_pred = model.predict(X_test)
+```
+```
+>>> y_test
+array([112635.,  67938., 113812.,  83088.,  64445.,  57189., 122391.,
+       109431.,  56957.])
+```
+```
+>>> y_pred
+array([115573.62288352,  71679.93878159, 102498.90847018,  75415.57147111,
+        55803.4998511 ,  60473.04071301, 122110.98009019, 107168.44933209,
+        63274.76523015])
+```
+```
+>>> import matplotlib.pyplot as plt
+>>> import seaborn as sns
+>>> sns.set()
+```
+```
+>>> plt.scatter(X_test, y_test, color='red')
+>>> plt.plot(X_test, y_pred)
+>>> plt.title('Salary vs Exp Prediction')
+>>> plt.xlabel('Exp')
+>>> plt.ylabel('Salary')
+>>> plt.show()
+```
