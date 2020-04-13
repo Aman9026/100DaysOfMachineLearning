@@ -59,3 +59,4 @@ model.intercept_
  plt.xlabel('time')
  plt.ylabel('marks')
 ```
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/samplegraph.png)
