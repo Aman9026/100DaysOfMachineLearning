@@ -53,4 +53,11 @@ MAE won’t punish large errors, so we use MSE, means larger error are noted mor
 ![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/RMS.png)
 
 Domain Knowledge also plays an important role
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/samplegraph3.png)
+
+Our goal with linear regression is to minimize the vertical distance between all the data points and our line and determining the best fit line
+We will use the Least Square Method, which is fitted by minimizing the sum of squares of the residuals
+
+### Residual 
+It is the difference between the observation (y value) to fitted line or predicted value (y hat)
 
