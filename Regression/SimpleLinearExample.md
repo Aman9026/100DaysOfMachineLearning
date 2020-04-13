@@ -53,7 +53,7 @@ array([115573.62288352,  71679.93878159, 102498.90847018,  75415.57147111,
 >>> from sklearn.externals import joblib
 >>> joblib.dump(model, 'salary.pk1')
 ```
-## Create App for salary Estimator uses by other User:
+## App of salary Estimator than can be used by other User:
 
 Create file from text editor, save content in salary_app.py:
 
