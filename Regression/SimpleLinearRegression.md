@@ -38,3 +38,24 @@ model = LinearRegression()
 model.predict(3)
 array([30.])
 ```
+**Coefficient:**
+```
+model.coef_
+array([10.])
+```
+**y-intercept or bias or constant :**
+```
+model.intercept_
+1.4210854715202004e-14  ~ 0
+```
+```
+ import matplotlib.pyplot as plt
+ import seaborn as sns
+ sns.set()
+```
+**Create Graph:**
+```
+ plt.scatter(X,y)
+ plt.xlabel('time')
+ plt.ylabel('marks')
+```
