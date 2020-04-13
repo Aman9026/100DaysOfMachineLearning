@@ -60,3 +60,10 @@ model.intercept_
  plt.ylabel('marks')
 ```
 ![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/samplegraph.png)
+
+```
+ plt.plot(X,y, marker='o')
+ plt.xlabel('time')
+ plt.ylabel('marks')
+```
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/samplegraph2.png)
