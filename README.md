@@ -55,10 +55,20 @@ model = joblib.load('filename.pk1')                   #Load from file
 ## [Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression)
 Regression is basically a statistical approach to find the relationship between variables. 
 In machine learning, this is used to predict the outcome of an event based on the relationship between variables obtained from the data-set.
-1. [Linear](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Regression/INFO.md)
-    * Simple linear regression
-    * Multiple linear regression
 
-2. Logistic
+_**Regression is a task when model attempts to predict continuous values and its evaluation can be done [this](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Regression/RegressionMetrics.md) way.**_
+
+### [Linear](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Regression/INFO.md)
+
+1. [Simple linear regression](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Regression/SimpleLinearRegression.md)
+    * How to do [simple linear regression](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Regression/SimpleLinearRegression.md)
+    * [Salary Prediction](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Regression/SimpleLinearExample.md) using Simple linear Regression 
+
+2. Multiple linear regression
+    
+    
+    
+
+### Logistic
     * Simple logistic regression
     * Multiple logistic regression
