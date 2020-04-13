@@ -40,3 +40,17 @@ All of these are loss function, so we have to minimize them
 * Mean Absolute Error - **MAE**
 * Mean Squared Error - **MSE**
 * Root Mean Square Error - **RMSE**
+
+### MAE
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/MAE.png)
+
+MAE won’t punish large errors, so we use MSE, means larger error are noted more than with MAE, making MSE more popular
+
+### MSE 
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/MSE.png)
+
+### RMSE: most popular 
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/RMS.png)
+
+Domain Knowledge also plays an important role
+
