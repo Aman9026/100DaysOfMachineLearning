@@ -23,3 +23,14 @@
 * Learnt about [Multi-Linear Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression/INFO.md)
 * Learnt about Feature selection
 * Learnt about MAE, MSE and RMS
+
+## Day 6
+* Learnt more about Feature Selecton
+* Learnt about Correlation
+* Learnt more about [Multi-Linear Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression/INFO.md)
+
+## Day 7
+* Learnt more about the coefficient and feature selection
+* Created a [Multi-Linear Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression/INFO.md)
+
+
