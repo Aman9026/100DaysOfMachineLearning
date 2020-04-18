@@ -39,3 +39,12 @@ Learnt:
  Significance of negative Co-efficient. More discussion on Co-relation method. Depth discussion on Embedded method(co-efficiency and lesso method/L1 regularization).Label and One-Hot Encoding. Feature Engineering. Categorical Variables. Dummy Variables. Pandas DataFrame. Dummy variable Trap. Multi-co-linearity. Redundant Variables.
 Implemented:
  Using SelectFromModel(Lasso(alpha=0.01)) creating lesso model and using .get_support observing features. Finding dummy variables using pandas(pd.get_dummies(state)).Row wise operation in DataFrame using iloc function. After lesso modelling finding the co-efficiency to see which features are important.
+
+## Day 9
+
+
+Learnt:
+
+ Dimensionality Reduction, Depth discussion on Wrapper Method, Feature Extraction, Principle Component Analysis, OLS method to find important features, Importance of P-Value and Adjusted R-Square, Backward Elimination. 
+Implemented:
+ Converting categorical values in dummy variable using one single command pd.get_dummies(X,drop_first=True). Creating OLS model using sm.OLS(endog=y,exog=X ).fit(). Manually backward elimination by observing P-Value and Adjusted R-Square. Printing elements from a list using for loop. Creating function using "def" keyword. Passing arguments inside a function. Use of return() keyword in function.
