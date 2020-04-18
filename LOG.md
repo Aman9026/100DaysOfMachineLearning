@@ -33,4 +33,9 @@
 * Learnt more about the coefficient and feature selection
 * Created a [Multi-Linear Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression/INFO.md)
 
+## Day 8
 
+Learnt:
+ Significance of negative Co-efficient. More discussion on Co-relation method. Depth discussion on Embedded method(co-efficiency and lesso method/L1 regularization).Label and One-Hot Encoding. Feature Engineering. Categorical Variables. Dummy Variables. Pandas DataFrame. Dummy variable Trap. Multi-co-linearity. Redundant Variables.
+Implemented:
+ Using SelectFromModel(Lasso(alpha=0.01)) creating lesso model and using .get_support observing features. Finding dummy variables using pandas(pd.get_dummies(state)).Row wise operation in DataFrame using iloc function. After lesso modelling finding the co-efficiency to see which features are important.
