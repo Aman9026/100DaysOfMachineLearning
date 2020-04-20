@@ -72,3 +72,8 @@ _**Regression is a task when model attempts to predict continuous values and its
 ### Logistic
     * Simple logistic regression
     * Multiple logistic regression
+    
+## [Feature Engineering](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Feature-Engineering)
+
+
+## [Feature Selection](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Feature-Selection)
