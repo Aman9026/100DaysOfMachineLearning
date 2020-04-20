@@ -1,1 +1,9 @@
-
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image25.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image4.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image27.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image17.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image42.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image23.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image7.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image22.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image21.png)
