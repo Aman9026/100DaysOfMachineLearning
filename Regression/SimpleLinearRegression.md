@@ -85,3 +85,5 @@ joblib.dump(model, 'filesave.pk1')
 >>> model
 >>> model.predict(7)
 ```
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image40.png)
+![](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Data/Images/Feature-Engineering/image32.png)
