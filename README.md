@@ -73,7 +73,15 @@ _**Regression is a task when model attempts to predict continuous values and its
     * Simple logistic regression
     * Multiple logistic regression
     
-## [Feature Engineering](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Feature-Engineering)
+## [Feature Engineering](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Feature-Engineering-Intro.md)
+* [Cardinality](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Cardinality.md)
+* [Categorical Encoding](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Categorical-Encoding.md)
+* [No Co-linearity](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/No-Co-linearity.md)
+* [Normality](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Normality.md)
+* [Rare Labels](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/One-Hot-Encoding.md)
+* [One-Hot-Encoding](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Rare-Labels.md)
+* [Homoscedasticity](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Homoscedasticity.md)
+* [Monotonic](https://github.com/Aman9026/100DaysOfMachineLearning/blob/master/Feature-Engineering/Monotonic.md)
 
 
 ## [Feature Selection](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Feature-Selection)
