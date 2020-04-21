@@ -61,3 +61,8 @@ Face recognition in 3 steps-
 i>taking the sample of face using haar cascade classifier from live webcam
 ii>Training the samples using LBPH module
 iii>Prediction of face in Live footage and also showing the accuracy on screen and authenticating the RHEL system login
+
+Learnt:
+Internally how sklearn is using numpy.Tensor datatype.Tensorflow library.Lazy and Eager Execution.Node and Graph.GPU vs CPU in instruction execution.Parallel and Distributed Computing.Concept of Environment and Dependencies.Decorator syntax in python.Perceptron.Random Initializer.Gradient descent.Optimizer.Learning Rate.Input,Hidden and Output layer.Python "with" keyword.
+
+Creating and landing in personal environment using "conda create" and "activate" command.Converting Eager execution to Lazy execution using @tf.function (Decorator syntax).Using a python script observing changes of loss and gradient descent continuously.
