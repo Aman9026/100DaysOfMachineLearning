@@ -48,3 +48,16 @@ Learnt:
  Dimensionality Reduction, Depth discussion on Wrapper Method, Feature Extraction, Principle Component Analysis, OLS method to find important features, Importance of P-Value and Adjusted R-Square, Backward Elimination. 
 Implemented:
  Converting categorical values in dummy variable using one single command pd.get_dummies(X,drop_first=True). Creating OLS model using sm.OLS(endog=y,exog=X ).fit(). Manually backward elimination by observing P-Value and Adjusted R-Square. Printing elements from a list using for loop. Creating function using "def" keyword. Passing arguments inside a function. Use of return() keyword in function.
+
+
+Learnt:
+Use of gretl software.Mathematical logic behind p-value.Null
+and Alternative Hypothesis.Sample Testing.Traditional
+ML(sklearn) vs Modern ML(neural network).Brief overview of
+BigData.
+
+ Use of OLS method in gretl.Converting categorical values in dummy variables,backward elimination,visualization etc using gretl.
+Face recognition in 3 steps-
+i>taking the sample of face using haar cascade classifier from live webcam
+ii>Training the samples using LBPH module
+iii>Prediction of face in Live footage and also showing the accuracy on screen and authenticating the RHEL system login
