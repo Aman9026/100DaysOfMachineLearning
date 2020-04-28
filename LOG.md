@@ -49,7 +49,7 @@ Learnt:
 Implemented:
  Converting categorical values in dummy variable using one single command pd.get_dummies(X,drop_first=True). Creating OLS model using sm.OLS(endog=y,exog=X ).fit(). Manually backward elimination by observing P-Value and Adjusted R-Square. Printing elements from a list using for loop. Creating function using "def" keyword. Passing arguments inside a function. Use of return() keyword in function.
 
-
+## 10
 Learnt:
 Use of gretl software.Mathematical logic behind p-value.Null
 and Alternative Hypothesis.Sample Testing.Traditional
