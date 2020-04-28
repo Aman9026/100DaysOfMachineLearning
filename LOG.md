@@ -34,35 +34,19 @@
 * Created a [Multi-Linear Regression](https://github.com/Aman9026/100DaysOfMachineLearning/tree/master/Regression/INFO.md)
 
 ## Day 8
-
-Learnt:
- Significance of negative Co-efficient. More discussion on Co-relation method. Depth discussion on Embedded method(co-efficiency and lesso method/L1 regularization).Label and One-Hot Encoding. Feature Engineering. Categorical Variables. Dummy Variables. Pandas DataFrame. Dummy variable Trap. Multi-co-linearity. Redundant Variables.
-Implemented:
- Using SelectFromModel(Lasso(alpha=0.01)) creating lesso model and using .get_support observing features. Finding dummy variables using pandas(pd.get_dummies(state)).Row wise operation in DataFrame using iloc function. After lesso modelling finding the co-efficiency to see which features are important.
+* Learnt significance of negative Co-efficient 
+* Learnt and Implemented Embedded method(co-efficiency and lesso method/L1 regularization), Label and One-Hot Encoding. 
 
 ## Day 9
+* Learnt Dimensionality Reduction, Depth discussion on Wrapper Method, Feature Extraction, Principle Component Analysis, OLS method to find important features, Importance of P-Value and Adjusted R-Square, Backward Elimination. 
+* Implemented categorical values in dummy variable.
+
+## Day 10
+* Learnt use of gretl software, Mathematical logic behind p-value, Null and Alternative Hypothesis, Sample Testing, Traditional, ML(sklearn) vs Modern ML(neural network).Brief overview of BigData.
+* Implemented Facial Recognition
 
 
-Learnt:
-
- Dimensionality Reduction, Depth discussion on Wrapper Method, Feature Extraction, Principle Component Analysis, OLS method to find important features, Importance of P-Value and Adjusted R-Square, Backward Elimination. 
-Implemented:
- Converting categorical values in dummy variable using one single command pd.get_dummies(X,drop_first=True). Creating OLS model using sm.OLS(endog=y,exog=X ).fit(). Manually backward elimination by observing P-Value and Adjusted R-Square. Printing elements from a list using for loop. Creating function using "def" keyword. Passing arguments inside a function. Use of return() keyword in function.
-
-## 10
-Learnt:
-Use of gretl software.Mathematical logic behind p-value.Null
-and Alternative Hypothesis.Sample Testing.Traditional
-ML(sklearn) vs Modern ML(neural network).Brief overview of
-BigData.
-
- Use of OLS method in gretl.Converting categorical values in dummy variables,backward elimination,visualization etc using gretl.
-Face recognition in 3 steps-
-i>taking the sample of face using haar cascade classifier from live webcam
-ii>Training the samples using LBPH module
-iii>Prediction of face in Live footage and also showing the accuracy on screen and authenticating the RHEL system login
-
-Learnt:
-Internally how sklearn is using numpy.Tensor datatype.Tensorflow library.Lazy and Eager Execution.Node and Graph.GPU vs CPU in instruction execution.Parallel and Distributed Computing.Concept of Environment and Dependencies.Decorator syntax in python.Perceptron.Random Initializer.Gradient descent.Optimizer.Learning Rate.Input,Hidden and Output layer.Python "with" keyword.
-
-Creating and landing in personal environment using "conda create" and "activate" command.Converting Eager execution to Lazy execution using @tf.function (Decorator syntax).Using a python script observing changes of loss and gradient descent continuously.
+## Day 11
+* Learnt how sklearn is using numpy.Tensor datatype.Tensorflow library along with Lazy and Eager Execution.
+* Convertied Eager execution to Lazy execution using @tf.function (Decorator syntax).
+* Used a python script for observing changes of loss and gradient descent continuously.
