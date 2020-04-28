@@ -50,3 +50,8 @@
 * Learnt how sklearn is using numpy.Tensor datatype.Tensorflow library along with Lazy and Eager Execution.
 * Convertied Eager execution to Lazy execution using @tf.function (Decorator syntax).
 * Used a python script for observing changes of loss and gradient descent continuously.
+
+## Day 12
+* Read a bit about spark & keras, relation between tensorflow and keras. 
+* Learnt how using neural network we try to simulate human mind in machine. 
+* Tried Auto feature selection and Activation Function.
