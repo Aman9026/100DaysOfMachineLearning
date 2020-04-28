@@ -55,3 +55,25 @@
 * Read a bit about spark & keras, relation between tensorflow and keras. 
 * Learnt how using neural network we try to simulate human mind in machine. 
 * Tried Auto feature selection and Activation Function.
+
+
+## Day 13 
+* Learnt about Activation function and its uses
+* Read about Perceptron and Epoch
+* Tried Auto Feature Selection, Feed Forward and Back Propagation. 
+
+
+## Day 14
+* Read and implemented Visualization(folium library), Backend concepts of folium, Object Detection.Darknet framework 
+* Read about Backend concepts of folium,
+* Object detection using YOLO
+
+## Day 15
+* Read about Observing Uniform distribution Graph, Concept of Granular, Bins(Interval), Univariate, Bivariate & Multivariate and KDE, Seaborn library,Classification and sigmoid function.
+* Used activation function as "sigmoid" in ANN model to get continuous output.
+* Implemented histogram, distplot etc
+
+## Day 16
+* Read about Binary Classification and Feature Engineering on NaN values 
+* Tried predicting survivors with Titanic dataset
+* Implemented bargraph, heatmap etc
